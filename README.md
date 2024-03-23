@@ -1,17 +1,17 @@
-## Meals App NextJS
+# Meals App NextJS
 
 This is a simple meals app I made with NextJS.
 
 Fork Repo and clone then run
 
-### For NPM
+## For NPM
 
 ```
 npm i
 npm run dev
 ```
 
-### For Yarn
+## For Yarn
 
 ```
 yarn
